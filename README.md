@@ -1,5 +1,5 @@
 ## Purpose
-Using PySpark, MongoDB and apply machine learning algorithms such as ​DecisionTreeClassifier(), RandomForestClassifier(), and LogisticRegression(), GBTClassifier() methods in spark to calculate the probability of the rain fall tomorrow based on the other related data points (e.g., temperature, wind, humidity).
+Using PySpark, MongoDB and apply machine learning algorithms such as ​DecisionTreeClassifier(), RandomForestClassifier(), and LogisticRegression(), GBTClassifier() methods in spark to calculate the probability of the rain fall tomorrow based on the other related data points (e.g. temperature, wind, humidity,...).
 ## Details
 ### Step 1: Import Spark Session and initialize Spark
 Create a SparkConf object that contains information about your application by SparkContext.
